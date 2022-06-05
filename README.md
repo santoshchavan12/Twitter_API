@@ -1,4 +1,4 @@
-# Twitter_API
+# Twitter_API  TWEEPY
 Extracting data(image, tweet) from twitter using Tweepy 
 API token, API secret key, access token, access secret token and bearer token are included in config.py file
 
