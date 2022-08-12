@@ -7,9 +7,13 @@ API token, API secret key, access token, access secret token and bearer token ar
 
 #config.py
 
-api_key = "xxxx"
+api_key = "xxxx" 
+ 
 api_secret_key = "xxxx"
+
 bearer_token = "xxxx"
+
 access_token = "xxxx"
+
 access_token_secret = "xxxx"
 
