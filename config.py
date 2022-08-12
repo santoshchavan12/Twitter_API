@@ -1,9 +1,9 @@
-api_key = "xxxx"
+api_key = "YOUR API KEY"
 
-api_secret_key = "xxxx"
+api_secret_key = "YOUR API SECRET KEY"
 
-bearer_token = "xxxx"
+bearer_token = "YOUR BEARER TOKEN"
 
-access_token = "xxxx"
+access_token = "YOUR ACCESS TOKEN"
 
-access_token_secret = "xxxx"
+access_token_secret = "YOUR ACCESS TOKEN SECRET KEY"
